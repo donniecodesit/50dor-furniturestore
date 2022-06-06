@@ -1,0 +1,21 @@
+.product {
+  margin: 5px;
+  overflow: auto;
+  border: 5px #a5cada;
+  background-color: #d8e2e7;
+  border-style: ridge;
+  padding: 4px;
+}
+
+.product__price {
+  display: inline-block;
+  line-height: 34px;
+}
+
+.product__button-wrap {
+  float: right;
+}
+
+.product-image {
+  width: 80%;
+}
